@@ -4,6 +4,7 @@
     <div class="header">黑马程序员.vant</div>
 这是组员1的修改
 这是组员2的修改
+这是组员1的第二次修改
     <!-- 宫格区域 -->
     <van-grid :column-num="3">
       <van-grid-item text="新闻资讯" to="/newslist" center>
@@ -21,10 +22,7 @@
       <van-grid-item text="留言反馈">
         <img src="../assets/img/menu4.png" />
         <p>留言反馈</p>
-      </van-grid-item>
-      <van-grid-item text="视频专区">
-        <img src="../assets/img/menu5.png" />
-        <p>视频专区</p>
+      
       </van-grid-item>
    
 这是组员2 的修改
